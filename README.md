@@ -69,4 +69,6 @@ A responsive image gallery with filtering, lightbox view, navigation, and smooth
 ---
 
 \*\*#CodeAlpha #FrontendDevelopment #WebDevelopment #JavaScript\*\*
+## 🔗 Live Demo
+https://Nithesh-cod.github.io/CodeAlpha_ImageGallery/
 
